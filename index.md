@@ -1,17 +1,11 @@
 
 ## Work Experience
-### Software Engineering Intern - KFI Engineers
+---
+
+### Learning Assistant - University of Minnesota
 
 ---
 
-### Research Assistant - University of Minnesota
-
----
-
-### Teaching Assistant - University of Minnesota
-
-
----
 
 ## Projects
 
